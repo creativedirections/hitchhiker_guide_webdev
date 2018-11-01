@@ -41,8 +41,8 @@ using all open source resources for development responsive HTML5 web sites for c
 * [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#blockquotes)
 
 ## Tools for Clients:
-* [ZOHO Mail]
-* [Slack]
+* [ZOHO Mail](https://www.zoho.com/mail/cpanel-login.html)
+* [Slack](https://slack.com)
 * [Trello](https://trello.com/)
 * [ownCloud]
 * Branding
