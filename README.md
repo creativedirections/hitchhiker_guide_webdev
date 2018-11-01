@@ -17,8 +17,8 @@ using all open source resources for development responsive HTML5 web sites for c
 ### Pitch-book Style
 * [Ethereal](https://html5up.net/ethereal): Outside the box, horizontal strolling
 * [Story](https://html5up.net/story): One-page, highly responsive and customizable
-* [Spectral](https://html5up.net/spectral): Image rich, good for pitching or events [example](https://github.com/veroetjohn/veroetjohn.github.io)
-* [Landed](https://html5up.net/landed): Responsive Image First [example](https://github.com/crossfitasphodel/deli)
+* [Spectral](https://html5up.net/spectral): Image rich, good for pitching or events [\[example\]](https://github.com/veroetjohn/veroetjohn.github.io)
+* [Landed](https://html5up.net/landed): Responsive Image First [\[example\]](https://github.com/crossfitasphodel/deli)
 * [Big Picture](https://html5up.net/big-picture): responsive image first like **Landed**
 * And a few more simpler single pages ones:
   * [Tessellate](https://html5up.net/tessellate)
