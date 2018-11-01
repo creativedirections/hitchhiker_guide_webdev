@@ -37,3 +37,14 @@ using all open source resources for development responsive HTML5 web sites for c
 * [HTML5Up](https://html5up.net/)
 * [JekyllRB](https://jekyllrb.com/): Official Jekyll Documentation
 * [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#blockquotes)
+
+## Tools for Clients:
+* [ZOHO Mail]
+* [Slack]
+* [Trello](https://trello.com/)
+* [ownCloud]
+* Branding
+  * [99 Design Brand Book Template](https://99designs.hk/designer-resource-center/brand-guide)
+  * [Canva Style Guide Example](https://www.canva.com/learn/50-meticulous-style-guides-every-startup-see-launching/)
+  * [99 Design How to create a Brand Style Guide](https://99designs.hk/blog/logo-branding/how-to-create-a-brand-style-guide/)
+  * [Style Guide Toolbox](https://speckyboy.com/styleguide-toolbox/)
