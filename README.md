@@ -48,5 +48,7 @@ using all open source resources for development responsive HTML5 web sites for c
 * Branding
   * [99 Design Brand Book Template](https://99designs.hk/designer-resource-center/brand-guide)
   * [Canva Style Guide Example](https://www.canva.com/learn/50-meticulous-style-guides-every-startup-see-launching/)
+    * [Canva's Course on Brand Design](https://www.canva.com/learn/how-to-build-a-brand/)
+    * [Canva's guide to building a brand kit](https://www.canva.com/learn/tutorials/creating-your-canva-brand-kit/)
   * [99 Design How to create a Brand Style Guide](https://99designs.hk/blog/logo-branding/how-to-create-a-brand-style-guide/)
   * [Style Guide Toolbox](https://speckyboy.com/styleguide-toolbox/)
