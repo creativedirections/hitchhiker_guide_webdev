@@ -52,3 +52,12 @@ using all open source resources for development responsive HTML5 web sites for c
     * [Canva's guide to building a brand kit](https://www.canva.com/learn/tutorials/creating-your-canva-brand-kit/)
   * [99 Design How to create a Brand Style Guide](https://99designs.hk/blog/logo-branding/how-to-create-a-brand-style-guide/)
   * [Style Guide Toolbox](https://speckyboy.com/styleguide-toolbox/)
+
+## Email Hosting
+for custom domains
+* [Yandex.Mail](https://connect.yandex.com/pdd/#!organizations): probably the best option and closes to Google Apps but **free** :heart:
+  * Here's an amazing [guide](https://help.alidropship.com/improve-your-store/creating-a-branded-business-email-with-yandex) on how to set it up.
+* [ZOHO Mail](): 5 free accounts, great control and interface, but **no POP or IMAP support**
+* [Google Apps](): probably the best alternative if the budget allows; but won't work in China
+* [Migadu](https://www.migadu.com/en/pricing.html): a Swiss option, that's low cost and also comes with a free option with a catch or two
+* [bitrix24](https://www.bitrix24.com/): seems like a good and free service I stumbled upon in a google search but need to look closer
