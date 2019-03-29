@@ -37,6 +37,8 @@ using all open source resources for development responsive HTML5 web sites for c
 
 ## Resources:
 * [HTML5Up](https://html5up.net/)
+* [Jekyll Themes](https://jekyllthemes.io/free)
+* [Jekyll Codex](https://jekyllcodex.org/): frontend design resources
 * [JekyllRB](https://jekyllrb.com/): Official Jekyll Documentation
 * [MarkDown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#blockquotes)
 
