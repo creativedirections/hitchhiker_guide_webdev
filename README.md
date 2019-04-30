@@ -63,3 +63,10 @@ for custom domains
 * [Google Apps](): probably the best alternative if the budget allows; but won't work in China
 * [Migadu](https://www.migadu.com/en/pricing.html): a Swiss option, that's low cost and also comes with a free option with a catch or two
 * [bitrix24](https://www.bitrix24.com/): seems like a good and free service I stumbled upon in a google search but need to look closer
+
+## Website Archive
+The Internet is a transient place and site changes all the time. For web migration there are a few tools available for archiving a site:
+* [The Wayback Machine](https://web.archive.org/): most simple online option
+* [Httrack](https://www.httrack.com/): a free commandline utils available from `brew install`
+* [wpull](https://wpull.readthedocs.io/): a Python package that works with version `3.6`. Here's a [simple guide](https://mediarealm.com.au/articles/archiving-websites-with-wpull/).
+* [grab-site](https://github.com/ArchiveTeam/grab-site): a version of `wpull` with a UI.
